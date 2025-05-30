@@ -6,12 +6,12 @@
 
 ## Screenshots
 
-![Screenshot](https://github.com/zucksfox/suicreate/blob/main/tampilan/screenshoot.png)
+![App Screenshot](https://github.com/zucksfox/suicreate/blob/main/tampilan/screenshoot.png)
 
 
 ## Cara Install
 
-Download dulu ea
+Buka terminal kamu + Download dulu
 
 ```bash
   git clone https://github.com/zucksfox/suicreate.git
@@ -19,6 +19,10 @@ Download dulu ea
 Buka Folder kamu
 ```
 cd suicreate
+```
+Install library
+```
+pip insall -r requirements.txt
 ```
 Run
 ```
