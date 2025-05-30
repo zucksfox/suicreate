@@ -22,7 +22,7 @@ cd suicreate
 ```
 Install library
 ```
-pip insall -r requirements.txt
+pip install -r requirements.txt
 ```
 Run
 ```
