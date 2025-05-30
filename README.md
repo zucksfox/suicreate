@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/zucksfox/suicreate/tree/main/tampilan/screenshoot.png)
+![Screenshot](https://github.com/zucksfox/suicreate/blob/main/tampilan/screenshoot.png)
 
 
 ## Cara Install
